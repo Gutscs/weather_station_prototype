@@ -1,0 +1,3 @@
+[submodule "ultrasonic_sensor"]
+	path = libraries/HCSR04-ultrasonic-sensor-lib
+	url = git@github.com:gamegine/HCSR04-ultrasonic-sensor-lib.git
