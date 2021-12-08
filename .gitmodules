@@ -1,3 +1,15 @@
 [submodule "ultrasonic_sensor"]
 	path = libraries/HCSR04-ultrasonic-sensor-lib
 	url = git@github.com:gamegine/HCSR04-ultrasonic-sensor-lib.git
+[submodule "DHT11_sensor"]
+	path = libraries/DHT11-sensor-library
+	url = git@github.com:adafruit/DHT-sensor-library.git
+[submodule "Adafruit_Sensor"]
+	path = libraries/Adafruit-sensor-library
+	url = git@github.com:adafruit/Adafruit_Sensor.git
+[submodule "BMP180-sensor-library"]
+	path = libraries/BMP180-sensor-library
+	url = git@github.com:adafruit/Adafruit-BMP085-Library.git
+[submodule "Adafruit-BusIO-library"]
+	path = libraries/Adafruit-BusIO-library
+	url = git@github.com:adafruit/Adafruit_BusIO.git
