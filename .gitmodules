@@ -13,3 +13,6 @@
 [submodule "Adafruit-BusIO-library"]
 	path = libraries/Adafruit-BusIO-library
 	url = git@github.com:adafruit/Adafruit_BusIO.git
+[submodule "Time-library"]
+	path = libraries/Time-library
+	url = https://github.com/PaulStoffregen/Time.git
