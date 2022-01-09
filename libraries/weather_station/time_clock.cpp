@@ -21,7 +21,7 @@ time_clock::time_clock(){}
 void time_clock::processSyncMessage(){
   unsigned long pctime;
 
-  setTime(1641698470);
+  setTime(DEFAULT_TIME);
   if (false) {
     if(Serial.find(TIME_HEADER)) {
         pctime = Serial.parseInt();
